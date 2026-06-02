@@ -77,7 +77,7 @@ export default function LandingPage() {
           handle: "@isabella_events",
           testimonial: "Bouquet Flowers VE made our wedding truly unforgettable with their breathtaking floral designs. Every detail was perfect!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/attractive-lovely-woman-with-long-light-brown-hair-big-blue-eyes-smiles-outdoors_291650-335.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/attractive-lovely-woman-with-long-light-brown-hair-big-blue-eyes-smiles-outdoors_291650-335.jpg?_wi=1",
           imageAlt: "Isabella V.",
         },
         {
@@ -150,7 +150,7 @@ export default function LandingPage() {
         },
       ]}
       avatarText="Join our community of happy customers!"
-      imageSrc="http://img.b2bpic.net/free-photo/selective-focus-flower-bouquet-green-weathered-wooden-background_23-2147940451.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/selective-focus-flower-bouquet-green-weathered-wooden-background_23-2147940451.jpg?_wi=1"
       imageAlt="Luxurious flower bouquet with soft lighting"
       showDimOverlay={true}
       showBlur={true}
@@ -222,7 +222,7 @@ export default function LandingPage() {
               imageAlt: "Finished custom bouquet",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/selective-focus-flower-bouquet-green-weathered-wooden-background_23-2147940451.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/selective-focus-flower-bouquet-green-weathered-wooden-background_23-2147940451.jpg?_wi=2",
           imageAlt: "flower delivery box elegant packaging",
         },
         {
@@ -239,7 +239,7 @@ export default function LandingPage() {
               imageAlt: "Luxurious event decor",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/attractive-lovely-woman-with-long-light-brown-hair-big-blue-eyes-smiles-outdoors_291650-335.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/attractive-lovely-woman-with-long-light-brown-hair-big-blue-eyes-smiles-outdoors_291650-335.jpg?_wi=2",
           imageAlt: "flower delivery box elegant packaging",
         },
       ]}
